@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+		background-image:url(fondo.png);
+		background-repeat:repeat;
+		width: 780px;
+		margin-left:250px;
+		height:auto;
+		border:#F90;
+		font:"Lucida Console", Monaco, monospace;
+	}
+h1{
+	background-color:#F90;
+	font-size:36px;
+	text-align:center;
+	height:100px;
+}
+h2{
+	text-align:center;
+	
+}
+div.login{
+		width:auto;
+		float:left
+		text-align:center;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+	}
+div.registrarse{
+		width:150px;
+		padding:10px;
+		border:5px solid #F90;
+		
+		margin-left:auto;
+	}
+div.contenedor{
+		width:768px;
+		display:block;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+	}
+div.instrucciones{
+		width:auto;
+		text-align:justify;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+		margin-top:-450px;
+		margin-right:200px;
+	}	
+div.estadisticas{
+		width:auto;
+		text-align:justify;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+		margin-top:auto;
+		margin-right:auto;
+	}	
+div.buscador{
+		width:auto;
+		text-align:justify;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+		margin-top:auto;
+		margin-right:auto;
+		text-align:center;
+	}
+div.cabecera{
+		background-image:url(cabecera.png);
+		width:768px;
+		height:100px;
+		margin-left:20px;
+	}
+div.imagen{
+		width:500px;
+		height:500px;
+		margin-top:auto;
+		border:5px solid #F90;
+		margin:10px;
+	}
+div.menu{
+		width:auto;
+		float:left
+		text-align:center;
+		padding:10px;
+		border:5px solid #F90;
+		margin:10px;
+}
